@@ -6,8 +6,8 @@
     "description": "Turn haxe classes into scriptable/interpretable/hot-reloadable code using hscript",
     "version": "0.1.4",
     "releasenote": "Fixes to make tests pass on JS, C++ and HL targets (more targets to be tested soon)",
-    "contributors": ["jeremyfa"],
+    "contributors": ["jeremyfa","kiroukou"],
     "dependencies": {
-      "hscript": "2.3.0"
+      "hscript": ""
     }
   }
